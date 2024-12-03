@@ -25,3 +25,14 @@ A feature-rich **Todo App** built with **React**, **Redux**, and **Framer Motion
    ```bash
    git clone https://github.com/your-username/todo-app.git
    cd todo-app
+   ```
+
+2.**Install Dependencies**:
+```bash
+   npm install
+```
+
+3.**Start the Development Server**:
+```bash
+npm run dev
+```
